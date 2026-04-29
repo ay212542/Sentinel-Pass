@@ -1,12 +1,12 @@
-# 🛡️ ShieldAuth — Secure Authentication & Attack Prevention System
+# 🛡️ Sentinel-Pass — Secure Authentication & Attack Prevention System
 
-ShieldAuth is a production-ready, security-first authentication system built with Node.js and Express. It implements industry-standard protection against common web vulnerabilities, including brute-force attacks, credential stuffing, and session hijacking.
+Sentinel-Pass is a production-ready, security-first authentication system built with Node.js and Express. It implements industry-standard protection against common web vulnerabilities, including brute-force attacks, credential stuffing, and session hijacking.
 
-![ShieldAuth Preview](./shield_auth_preview.png)
+![Sentinel-Pass Preview](./shield_auth_preview.png)
 
 ## 🌟 Overview
 
-ShieldAuth provides a robust foundation for applications requiring high-security authentication. It combines a sleek, modern frontend with a hardened backend that prioritizes user data protection and system integrity.
+Sentinel-Pass provides a robust foundation for applications requiring high-security authentication. It combines a sleek, modern frontend with a hardened backend that prioritizes user data protection and system integrity.
 
 ## 🔐 Security Features
 
@@ -45,7 +45,7 @@ ShieldAuth provides a robust foundation for applications requiring high-security
 ## 📂 Project Structure
 
 ```text
-ShieldAuth/
+Sentinel-Pass/
 ├── src/
 │   ├── app.js           # Main Entry Point & Middleware Config
 │   ├── middleware/      # Rate-limiting, Auth guards, & Error Handlers
@@ -68,8 +68,8 @@ Ensure you have [Node.js](https://nodejs.org/) (v16+) installed.
 ### 2. Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/ShieldAuth.git
-cd ShieldAuth
+git clone https://github.com/yourusername/Sentinel-Pass.git
+cd Sentinel-Pass
 npm install
 ```
 
